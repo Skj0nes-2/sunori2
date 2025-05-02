@@ -27,14 +27,14 @@ const ContentCard: React.FC<ContentCardProps> = ({ item, index }) => {
       </div>
       <div className="p-4">
         <h3 className="text-lg font-semibold text-gray-900 mb-1">{item.title}</h3>
-        <p className="text-sm text-gray-600 mb-3">Source: {item.src}</p>
+        <p className="text-sm text-gray-600 mb-3">Creator: {item.creator}</p>
         <a
           href={item.link}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center px-3 py-1.5 text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 transition-colors duration-200"
         >
-          <span>Visit</span>
+          <span>Open</span>
           <ExternalLink size={16} className="ml-1" />
         </a>
       </div>

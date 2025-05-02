@@ -25,7 +25,7 @@ const Home: React.FC = () => {
         transition={{ duration: 0.5 }}
       >
         <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-          Discover Great Content
+          Sunori
         </h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           Explore our curated collection of games, movies, apps, and books.

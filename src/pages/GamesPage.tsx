@@ -23,7 +23,7 @@ const GamesPage: React.FC = () => {
       >
         <h1 className="text-3xl font-bold text-gray-900 mb-2">Games</h1>
         <p className="text-gray-600 mb-6">
-          Discover the best games across all platforms.
+          Explore our collection of the best games.
         </p>
         <Search onSearch={handleSearch} placeholder="Search games..." />
       </motion.div>

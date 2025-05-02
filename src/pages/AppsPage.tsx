@@ -23,7 +23,7 @@ const AppsPage: React.FC = () => {
       >
         <h1 className="text-3xl font-bold text-gray-900 mb-2">Apps</h1>
         <p className="text-gray-600 mb-6">
-          Discover useful applications to enhance your productivity.
+          Explore our collection of applications.
         </p>
         <Search onSearch={handleSearch} placeholder="Search apps..." />
       </motion.div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Mail, Twitter } from 'lucide-react';
+import { Github, Mail } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -45,15 +45,11 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Connect</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
-                <Twitter size={20} />
-                <span className="sr-only">Twitter</span>
-              </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://github.com/Sunori-Official/Sunori" className="text-gray-300 hover:text-white transition-colors">
                 <Github size={20} />
                 <span className="sr-only">GitHub</span>
               </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="mailto:sunori_@outlook.com" className="text-gray-300 hover:text-white transition-colors">
                 <Mail size={20} />
                 <span className="sr-only">Email</span>
               </a>

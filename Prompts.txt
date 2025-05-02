@@ -1,0 +1,46 @@
+  _____  _           _       
+ / ____|| |         | |      
+| (___  | |_  _   _ | |  ___ 
+ \___ \ | __|| | | || | / _ \
+ ____) || |_ | |_| || ||  __/
+|_____/  \__| \__, ||_| \___|
+               __/ |         
+              |___/
+
+Add Dark/Light Mode:
+"""
+Add a dark/light toggle right of the navigation. Dark theme should be Blue-Grey & Sun Yellow,
+while the light theme should be White & Deep Purple. Dark theme should be the default and 
+the theme setting should be preserved every time you exit the site and applied when you next
+get on it.
+"""
+
+Fix Favicon Colors:
+"""
+Change the favicon to be sun yellow when dark mode and deep purple when light mode, instead
+of blue.
+"""
+
+ ______            _                          
+|  ____|          | |                         
+| |__  ___   __ _ | |_  _   _  _ __  ___  ___ 
+|  __|/ _ \ / _` || __|| | | || '__|/ _ \/ __|
+| |  |  __/| (_| || |_ | |_| || |  |  __/\__ \
+|_|   \___| \__,_| \__| \__,_||_|   \___||___/
+
+Make Content Page:
+"""
+Make a new page named 'ContentPage.tsx' acessible at '/content', it should use URL arguements 
+to change the content of the page. For example, '?content=Game_ageofwar' should use the game in 
+'src.json' with the title 'Age of War', another example for movies would be 
+'?content=Movie_avengers' using the movie in 'src.json' with the title 'Avengers'.The page 
+sould have an iframe element with dimesions of 100vw & 100vh. The source of the iframe should be
+equal to the 'src' of the selected content, defined by the URL arguement. The page should also
+list the creator of the content or the 'creator' value of the selected content.
+"""
+
+Dynamic Search:
+"""
+Make search update results every time a charcter is typed instead searching upon clicking 
+search.
+"""
