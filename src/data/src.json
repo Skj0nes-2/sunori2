@@ -1,0 +1,364 @@
+{
+  "games": [
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "link": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/",
+      "img": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg",
+      "creator": "Nintendo"
+    },
+    {
+      "title": "Elden Ring",
+      "link": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
+      "img": "https://images.pexels.com/photos/276267/pexels-photo-276267.jpeg",
+      "creator": "FromSoftware"
+    },
+    {
+      "title": "God of War Ragnarök",
+      "link": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/",
+      "img": "https://images.pexels.com/photos/12318223/pexels-photo-12318223.jpeg",
+      "creator": "Sony"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "link": "https://www.rockstargames.com/reddeadredemption2/",
+      "img": "https://images.pexels.com/photos/11861752/pexels-photo-11861752.jpeg",
+      "creator": "Rockstar Games"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "link": "https://www.cyberpunk.net/",
+      "img": "https://images.pexels.com/photos/5324956/pexels-photo-5324956.jpeg",
+      "creator": "CD Projekt"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "link": "https://www.thewitcher.com/en/witcher3",
+      "img": "https://images.pexels.com/photos/7742725/pexels-photo-7742725.jpeg",
+      "creator": "CD Projekt Red"
+    },
+    {
+      "title": "Horizon Forbidden West",
+      "link": "https://www.playstation.com/en-us/games/horizon-forbidden-west/",
+      "img": "https://images.pexels.com/photos/6039244/pexels-photo-6039244.jpeg",
+      "creator": "Guerrilla Games"
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "link": "https://www.playstation.com/en-us/games/ghost-of-tsushima/",
+      "img": "https://images.pexels.com/photos/3304855/pexels-photo-3304855.jpeg",
+      "creator": "Sucker Punch"
+    },
+    {
+      "title": "Hades",
+      "link": "https://www.supergiantgames.com/games/hades/",
+      "img": "https://images.pexels.com/photos/10513822/pexels-photo-10513822.jpeg",
+      "creator": "Supergiant Games"
+    },
+    {
+      "title": "Resident Evil Village",
+      "link": "https://www.residentevil.com/village/",
+      "img": "https://images.pexels.com/photos/10175062/pexels-photo-10175062.jpeg",
+      "creator": "Capcom"
+    },
+    {
+      "title": "Persona 5 Royal",
+      "link": "https://atlus.com/p5r/",
+      "img": "https://images.pexels.com/photos/2335126/pexels-photo-2335126.jpeg",
+      "creator": "Atlus"
+    },
+    {
+      "title": "Doom Eternal",
+      "link": "https://bethesda.net/en/game/doom",
+      "img": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg",
+      "creator": "id Software"
+    },
+    {
+      "title": "Sekiro: Shadows Die Twice",
+      "link": "https://www.sekirothegame.com/",
+      "img": "https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg",
+      "creator": "FromSoftware"
+    },
+    {
+      "title": "Animal Crossing: New Horizons",
+      "link": "https://www.animal-crossing.com/new-horizons/",
+      "img": "https://images.pexels.com/photos/9072292/pexels-photo-9072292.jpeg",
+      "creator": "Nintendo"
+    },
+    {
+      "title": "Final Fantasy VII Remake",
+      "link": "https://ffvii-remake.square-enix-games.com/",
+      "img": "https://images.pexels.com/photos/8070797/pexels-photo-8070797.jpeg",
+      "creator": "Square Enix"
+    },
+    {
+      "title": "Deathloop",
+      "link": "https://deathloop.bethesda.net/",
+      "img": "https://images.pexels.com/photos/5486790/pexels-photo-5486790.jpeg",
+      "creator": "Arkane Studios"
+    },
+    {
+      "title": "Metroid Dread",
+      "link": "https://www.nintendo.com/games/detail/metroid-dread-switch/",
+      "img": "https://images.pexels.com/photos/4339447/pexels-photo-4339447.jpeg",
+      "creator": "Nintendo"
+    },
+    {
+      "title": "It Takes Two",
+      "link": "https://www.ea.com/games/it-takes-two",
+      "img": "https://images.pexels.com/photos/4720265/pexels-photo-4720265.jpeg",
+      "creator": "Hazelight Studios"
+    },
+    {
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "link": "https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/",
+      "img": "https://images.pexels.com/photos/6498294/pexels-photo-6498294.jpeg",
+      "creator": "Insomniac Games"
+    },
+    {
+      "title": "Assassin's Creed Valhalla",
+      "link": "https://www.ubisoft.com/en-us/game/assassins-creed/valhalla",
+      "img": "https://images.pexels.com/photos/6498300/pexels-photo-6498300.jpeg",
+      "creator": "Ubisoft"
+    },
+    {
+      "title": "Demon's Souls",
+      "link": "https://www.playstation.com/en-us/games/demons-souls/",
+      "img": "https://images.pexels.com/photos/3309961/pexels-photo-3309961.jpeg",
+      "creator": "Bluepoint Games"
+    },
+    {
+      "title": "Ratchet & Clank: Rift Apart",
+      "link": "https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/",
+      "img": "https://images.pexels.com/photos/7520869/pexels-photo-7520869.jpeg",
+      "creator": "Insomniac Games"
+    },
+    {
+      "title": "Monster Hunter Rise",
+      "link": "https://www.monsterhunter.com/rise/",
+      "img": "https://images.pexels.com/photos/776351/pexels-photo-776351.jpeg",
+      "creator": "Capcom"
+    },
+    {
+      "title": "Returnal",
+      "link": "https://www.playstation.com/en-us/games/returnal/",
+      "img": "https://images.pexels.com/photos/4194842/pexels-photo-4194842.jpeg",
+      "creator": "Housemarque"
+    },
+    {
+      "title": "Kena: Bridge of Spirits",
+      "link": "https://www.emberlab.com/",
+      "img": "https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg",
+      "creator": "Ember Lab"
+    },
+    {
+      "title": "Psychonauts 2",
+      "link": "https://psychonauts.com/",
+      "img": "https://images.pexels.com/photos/4219342/pexels-photo-4219342.jpeg",
+      "creator": "Double Fine"
+    },
+    {
+      "title": "Disco Elysium: The Final Cut",
+      "link": "https://discoelysium.com/",
+      "img": "https://images.pexels.com/photos/5082580/pexels-photo-5082580.jpeg",
+      "creator": "ZA/UM"
+    },
+    {
+      "title": "Hitman 3",
+      "link": "https://hitman.com/global/",
+      "img": "https://images.pexels.com/photos/5920768/pexels-photo-5920768.jpeg",
+      "creator": "IO Interactive"
+    },
+    {
+      "title": "Death Stranding",
+      "link": "https://www.kojimaproductions.jp/en/death-stranding",
+      "img": "https://images.pexels.com/photos/3618545/pexels-photo-3618545.jpeg",
+      "creator": "Kojima Productions"
+    },
+    {
+      "title": "Stardew Valley",
+      "link": "https://www.stardewvalley.net/",
+      "img": "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg",
+      "creator": "ConcernedApe"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Inception",
+      "link": "https://www.warnerbros.com/movies/inception",
+      "img": "https://images.pexels.com/photos/2347011/pexels-photo-2347011.jpeg",
+      "creator": "Warner Bros"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "link": "https://www.warnerbros.com/movies/shawshank-redemption",
+      "img": "https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg",
+      "creator": "Columbia Pictures"
+    },
+    {
+      "title": "The Dark Knight",
+      "link": "https://www.warnerbros.com/movies/dark-knight",
+      "img": "https://images.pexels.com/photos/1304469/pexels-photo-1304469.jpeg",
+      "creator": "Warner Bros"
+    },
+    {
+      "title": "Pulp Fiction",
+      "link": "https://www.miramax.com/movie/pulp-fiction/",
+      "img": "https://images.pexels.com/photos/2034310/pexels-photo-2034310.jpeg",
+      "creator": "Miramax"
+    },
+    {
+      "title": "The Godfather",
+      "link": "https://www.paramountmovies.com/movies/the-godfather",
+      "img": "https://images.pexels.com/photos/3894383/pexels-photo-3894383.jpeg",
+      "creator": "Paramount Pictures"
+    },
+    {
+      "title": "Fight Club",
+      "link": "https://www.foxmovies.com/movies/fight-club",
+      "img": "https://images.pexels.com/photos/1117132/pexels-photo-1117132.jpeg",
+      "creator": "20th Century Fox"
+    },
+    {
+      "title": "Interstellar",
+      "link": "https://www.warnerbros.com/movies/interstellar",
+      "img": "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg",
+      "creator": "Paramount Pictures"
+    },
+    {
+      "title": "The Matrix",
+      "link": "https://www.warnerbros.com/movies/matrix",
+      "img": "https://images.pexels.com/photos/2516417/pexels-photo-2516417.jpeg",
+      "creator": "Warner Bros"
+    },
+    {
+      "title": "Goodfellas",
+      "link": "https://www.warnerbros.com/movies/goodfellas",
+      "img": "https://images.pexels.com/photos/5699397/pexels-photo-5699397.jpeg",
+      "creator": "Warner Bros"
+    },
+    {
+      "title": "Parasite",
+      "link": "https://neonrated.com/films/parasite",
+      "img": "https://images.pexels.com/photos/4440720/pexels-photo-4440720.jpeg",
+      "creator": "CJ Entertainment"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "link": "https://www.mgm.com/movies/the-silence-of-the-lambs",
+      "img": "https://images.pexels.com/photos/5780812/pexels-photo-5780812.jpeg",
+      "creator": "Orion Pictures"
+    },
+    {
+      "title": "Schindler's List",
+      "link": "https://www.universalpictures.com/movies/schindlers-list",
+      "img": "https://images.pexels.com/photos/1021683/pexels-photo-1021683.jpeg",
+      "creator": "Universal Pictures"
+    },
+    {
+      "title": "Forrest Gump",
+      "link": "https://www.paramountmovies.com/movies/forrest-gump",
+      "img": "https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg",
+      "creator": "Paramount Pictures"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "link": "https://www.newline.com/properties/lordoftheringsfelloshipofthering.html",
+      "img": "https://images.pexels.com/photos/3573382/pexels-photo-3573382.jpeg",
+      "creator": "New Line Cinema"
+    },
+    {
+      "title": "Spirited Away",
+      "link": "https://ghibli.fandom.com/wiki/Spirited_Away",
+      "img": "https://images.pexels.com/photos/6510959/pexels-photo-6510959.jpeg",
+      "creator": "Studio Ghibli"
+    },
+    {
+      "title": "1917",
+      "link": "https://www.universalpictures.com/movies/1917",
+      "img": "https://images.pexels.com/photos/6477317/pexels-photo-6477317.jpeg",
+      "creator": "Universal Pictures"
+    },
+    {
+      "title": "Gladiator",
+      "link": "https://www.paramountmovies.com/movies/gladiator",
+      "img": "https://images.pexels.com/photos/10525177/pexels-photo-10525177.jpeg",
+      "creator": "DreamWorks"
+    },
+    {
+      "title": "No Country for Old Men",
+      "link": "https://www.paramountmovies.com/movies/no-country-for-old-men",
+      "img": "https://images.pexels.com/photos/11033606/pexels-photo-11033606.jpeg",
+      "creator": "Miramax"
+    },
+    {
+      "title": "There Will Be Blood",
+      "link": "https://www.paramountmovies.com/movies/there-will-be-blood",
+      "img": "https://images.pexels.com/photos/3876407/pexels-photo-3876407.jpeg",
+      "creator": "Paramount Vantage"
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "link": "https://www.focusfeatures.com/eternal-sunshine-of-the-spotless-mind",
+      "img": "https://images.pexels.com/photos/3692639/pexels-photo-3692639.jpeg",
+      "creator": "Focus Features"
+    },
+    {
+      "title": "The Departed",
+      "link": "https://www.warnerbros.com/movies/departed",
+      "img": "https://images.pexels.com/photos/3520693/pexels-photo-3520693.jpeg",
+      "creator": "Warner Bros"
+    },
+    {
+      "title": "Whiplash",
+      "link": "https://www.sonypictures.com/movies/whiplash",
+      "img": "https://images.pexels.com/photos/4087996/pexels-photo-4087996.jpeg",
+      "creator": "Sony Pictures"
+    },
+    {
+      "title": "The Social Network",
+      "link": "https://www.sonypictures.com/movies/thesocialnetwork",
+      "img": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg",
+      "creator": "Columbia Pictures"
+    },
+    {
+      "title": "La La Land",
+      "link": "https://www.lionsgate.com/movies/la-la-land",
+      "img": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg",
+      "creator": "Lionsgate"
+    },
+    {
+      "title": "Arrival",
+      "link": "https://www.paramountmovies.com/movies/arrival",
+      "img": "https://images.pexels.com/photos/5156651/pexels-photo-5156651.jpeg",
+      "creator": "Paramount Pictures"
+    },
+    {
+      "title": "Joker",
+      "link": "https://www.warnerbros.com/movies/joker",
+      "img": "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg",
+      "creator": "Warner Bros"
+    }
+  ],
+  "apps": [
+    {
+      "title": "Adobe Creative Cloud",
+      "link": "https://www.adobe.com/creativecloud.html",
+      "img": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg",
+      "creator": "Adobe"
+    }
+  ],
+  "books": [
+    {
+      "title": "1984",
+      "link": "https://www.penguinrandomhouse.com/books/558959/1984-by-george-orwell/",
+      "img": "https://images.pexels.com/photos/5834/nature-grass-leaf-green.jpg",
+      "creator": "George Orwell"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "link": "https://www.harpercollins.com/products/to-kill-a-mockingbird-harper-lee",
+      "img": "https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg",
+      "creator": "Harper Lee"
+    }
+  ]
+}
